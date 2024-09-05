@@ -1,7 +1,7 @@
 # awesome-vector-ANN-search-papers
 A list of papers in the field of approximate nearest neighbor search on high-dimensional vectors.
 
-We organize paper according to categories and research groups. Other reading reference and notes for ANN study is coming soon.
+We organize paper according to **categories** and **research groups**. Other reading reference and notes for ANN study is coming soon.
 
 Let's dive into ANN search and vector database!
 
@@ -96,6 +96,10 @@ This category collects papers that propose graph-based methods, without combinin
 - Navigable Proximity Graph-Driven Native Hybrid Queries with Structured and Unstructured Constraints (2022), Wang et al. [[link]](https://arxiv.org/pdf/2203.13601)
 
 
+### Computation acceleration
+- High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations (SIGMOD2023), Gao et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3589282)
+- Juno: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping (ASPLOS2024), Liu et al. [[link]](https://horizon-lab.org/pubs/asplos24-juno.pdf)
+
 ### Vector database system
 
 - Milvus: A Purpose-Built Vector Data Management System (SIGMOD2021), Wang et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3448016.3457550)
@@ -181,6 +185,7 @@ This category collects papers that propose graph-based methods, without combinin
     
 - Jianyang Gao, Cheng Long, Nanyang Technological University
     1. RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search (SIGMOD2024), Gao et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3654970)
+    2. High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations (SIGMOD2023), Gao et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3589282)
 
 - Wei Wang, Fudan University
     1. Steiner-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes (VLDB2025), Wang et al. [[link]](https://arxiv.org/pdf/2408.13899)
