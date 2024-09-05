@@ -1,7 +1,7 @@
 # awesome-vector-ANN-search-papers
 A list of papers in the field of approximate nearest neighbor search on high-dimensional vectors.
 
-We organize paper according to **categories** and **research groups**. Other reading reference and notes for ANN study is coming soon.
+We organize papers according to **categories** and **research groups**. Other reading reference and notes for ANN study is coming soon.
 
 Let's dive into ANN search and vector database!
 
@@ -130,7 +130,7 @@ This category collects papers that propose graph-based methods, without combinin
 
 
 ## Papers Organized with Research Groups
-- Yury Malkov
+- Yury Malkov, OpenAI
     1. Approximate nearest neighbor algorithm based on navigable small world graphs (IS2014),  Malkov et al. [[link]](https://www.researchgate.net/profile/Yu-Malkov/publication/259126397_Approximate_nearest_neighbor_algorithm_based_on_navigable_small_world_graphs/links/63733c302f4bca7fd06030b8/Approximate-nearest-neighbor-algorithm-based-on-navigable-small-world-graphs.pdf)
     2. Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs (TPAMI2018), Malkov et al. [[link]](https://www.researchgate.net/profile/Yu-Malkov/publication/259126397_Approximate_nearest_neighbor_algorithm_based_on_navigable_small_world_graphs/links/63733c302f4bca7fd06030b8/Approximate-nearest-neighbor-algorithm-based-on-navigable-small-world-graphs.pdf)
 
@@ -144,11 +144,11 @@ This category collects papers that propose graph-based methods, without combinin
     2. SPFresh: Incremental In-Place Update for Billion-Scale Vector Search (SOSP2023), Xu et al. [[link]](https://dl.acm.org/doi/abs/10.1145/3600006.3613166)
     3. VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity (OSDI2023), Zhang et al. [[link]](https://www.usenix.org/system/files/osdi23-zhang-qianxi_1.pdf)
 
-- Dong Deng
+- Dong Deng, Rutgers University
     1. SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search (SIGMOD2024), Zuo et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3639324)
     2. ARKGraph: All-Range Approximate K-Nearest-Neighbor Graph (VLDB2023), Zuo et al. [[link]](https://www.vldb.org/pvldb/vol16/p2645-deng.pdf)
 
-- Cong Fu
+- Cong Fu, Zhejiang University
     1. EFANNA : An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph (2016), Fu et al. [[link]](https://arxiv.org/pdf/1609.07228)
     2. Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph (VLDB2019), Fu et al. [[link]](https://www.vldb.org/pvldb/vol12/p461-fu.pdf)
 
@@ -156,7 +156,7 @@ This category collects papers that propose graph-based methods, without combinin
     1. Probabilistic Routing for Graph-Based Approximate Nearest Neighbor Search (2024), Lu et al. [[link]](https://arxiv.org/pdf/2402.11354)
     2. HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search (VLDB2021), Lu et al. [[link]](http://www.vldb.org/pvldb/vol15/p246-lu.pdf)
 
-- Defu Lian
+- Defu Lian, University of Science and Technology of China
     1. Knowledge Distillation for High Dimensional Search Index (NeurIPS2024), Lu et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/6a15378acabd1aef017ec79a3ed744d2-Paper-Conference.pdf)
     2. Reinforcement Routing on Proximity Graph for Efficient Recommendation (TOIS2023), Feng et al. [[link]](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/paper.pdf)
     3. Learning Balanced Tree Indexes for Large-Scale Vector Retrieval (SIGKDD2023), Li et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599406)
