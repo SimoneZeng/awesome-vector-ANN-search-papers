@@ -27,6 +27,7 @@ This category collects papers that propose graph-based methods, without combinin
 - Probabilistic Routing for Graph-Based Approximate Nearest Neighbor Search (2024), Lu et al. [[link]](https://arxiv.org/pdf/2402.11354)
 - Reinforcement Routing on Proximity Graph for Efficient Recommendation (TOIS2023), Feng et al. [[link]](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/paper.pdf)
 - Steiner-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes (VLDB2025), Wang et al. [[link]](https://arxiv.org/pdf/2408.13899)
+- RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search (VLDB2024), Chen et al. [[link]](https://www.vldb.org/pvldb/vol17/p2735-chen.pdf)
 
 
 ### Combining graph and other categories
@@ -50,7 +51,7 @@ This category collects papers that propose graph-based methods, without combinin
 
 - RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search (SIGMOD2024), Gao et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3654970)
 - Similarity Search in the Blink of an Eye with Compressed Indices (VLDB2023), Aguerrebere et al. [[link]](https://arxiv.org/pdf/2304.04759)
-- Model-enhanced Vector Index (NeurIPS2024), Zhang et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf)
+- Model-enhanced Vector Index (NeurIPS2023), Zhang et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf)
 - Knowledge Distillation for High Dimensional Search Index (NeurIPS2024), Lu et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/6a15378acabd1aef017ec79a3ed744d2-Paper-Conference.pdf)
 
 
@@ -62,9 +63,11 @@ This category collects papers that propose graph-based methods, without combinin
 - PM-LSH: a fast and accurate in-memory framework for high-dimensional approximate NN and closest pair search (VLDB2022), Zheng et al. [[link]](https://arxiv.org/pdf/2107.05537)
 - Query-aware locality-sensitive hashing for approximate nearest neighbor search (VLDB2015), Huang et al. [[link]](https://www.researchgate.net/profile/Jianlin-Feng/publication/292671953_Query-aware_locality-sensitive_hashing_for_approximate_nearest_neighbor_search/links/59a41df1a6fdcc773a371efc/Query-aware-locality-sensitive-hashing-for-approximate-nearest-neighbor-search.pdf)
 - LIDER: an efficient high-dimensional learned index for large-scale dense passage retrieval (VLDB2022), Wang et al. [[link]](https://www.vldb.org/pvldb/vol16/p154-wang.pdf)
+- DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search (VLDB2024), Wei et al. [[link]](https://arxiv.org/pdf/2406.10938)
 
 
 ### Tree-based
+- DIDS: Double Indices and Double Summarizations for Fast Similarity Search (VLDB2024), Hu et al. [[link]](https://www.vldb.org/pvldb/vol17/p2198-wang.pdf)
 - Adaptive Indexing in High-Dimensional Metric Spaces (VLDB2023), Lampropoulos et al. [[link]](https://cs.au.dk/~karras/p2525-mamoulis.pdf)
 - Hercules Against Data Series Similarity Search (VLDB2022), Echihabi et al. [[link]](https://www.vldb.org/pvldb/vol15/p2005-echihabi.pdf)
 - Scalable Nearest Neighbor Algorithms for High Dimensional Data (TPAMI20), Muja et al. [[link]](https://ieeexplore.ieee.org/iel7/34/4359286/06809191.pdf)
@@ -94,6 +97,7 @@ This category collects papers that propose graph-based methods, without combinin
 - AnalyticDB-V: a hybrid analytical engine towards query fusion for structured and unstructured data (VLDB2020), Wei et al. [[link]](https://vldb.org/pvldb/vol13/p3152-wei.pdf)
 - SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search (SIGMOD2024), Zuo et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3639324)
 - Navigable Proximity Graph-Driven Native Hybrid Queries with Structured and Unstructured Constraints (2022), Wang et al. [[link]](https://arxiv.org/pdf/2203.13601)
+- High-Throughput Vector Similarity Search in Knowledge Graphs (SIGMOD2023), Mohoney et al. [[link]](https://arxiv.org/pdf/2304.01926)
 
 
 ### Computation acceleration
@@ -109,6 +113,8 @@ This category collects papers that propose graph-based methods, without combinin
 - Efficient Approximate Nearest Neighbor Search in Multi-dimensional Databases (SIGMOD2023), Peng et al. [[link]](https://www.comp.hkbu.edu.hk/~edisonchan/publication/tau-MNG.pdf)
 - VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity (OSDI2023), Zhang et al. [[link]](https://www.usenix.org/system/files/osdi23-zhang-qianxi_1.pdf)
 - LANNS: a web-scale approximate nearest neighbor lookup system (VLDB2021), Doshi et al. [[link]](https://arxiv.org/pdf/2010.09426)
+- SingleStore-V: An Integrated Vector Database System in
+SingleStore (VLDB2024), Chen et al. [[link]](https://cs.purdue.edu/homes/csjgwang/pubs/VLDB24_SingleStoreVec.pdf)
 
 ### Threoratical
 
@@ -165,12 +171,13 @@ This category collects papers that propose graph-based methods, without combinin
     1. Steiner-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes (VLDB2025), Wang et al. [[link]](https://arxiv.org/pdf/2408.13899)
     2. ELPIS: Graph-Based Similarity Search for Scalable Data Science (VLDB2023), Azizi et al. [[link]](https://www.vldb.org/pvldb/vol16/p1548-azizi.pdf)
     3. Hercules Against Data Series Similarity Search (VLDB2022), Echihabi et al. [[link]](https://www.vldb.org/pvldb/vol15/p2005-echihabi.pdf)
+    4. DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search (VLDB2024), Wei et al. [[link]](https://arxiv.org/pdf/2406.10938)
 
 - Guoliang Li, Tsinghua University
     1. Survey of Vector Database Management Systems (VLDB2024), Pan et al. [[link]](https://arxiv.org/pdf/2310.14021)
 
 - Bin Cui, Peking University
-    1. Model-enhanced Vector Index (NeurIPS2024), Zhang et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf)
+    1. Model-enhanced Vector Index (NeurIPS2023), Zhang et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf)
 
 - Xi Zhao, Xiaofang Zhou, Hong Kong University of Science and Technology
     1. Towards Efficient Index Construction and Approximate Nearest Neighbor Search in High-Dimensional Spaces (VLDB2023), Zhao et al. [[link]](https://www.vldb.org/pvldb/vol16/p1979-zhao.pdf)
