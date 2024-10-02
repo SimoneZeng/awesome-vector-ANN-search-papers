@@ -53,6 +53,7 @@ This category collects papers that propose graph-based methods, without combinin
 - Similarity Search in the Blink of an Eye with Compressed Indices (VLDB2023), Aguerrebere et al. [[link]](https://arxiv.org/pdf/2304.04759)
 - Model-enhanced Vector Index (NeurIPS2023), Zhang et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf)
 - Knowledge Distillation for High Dimensional Search Index (NeurIPS2024), Lu et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/6a15378acabd1aef017ec79a3ed744d2-Paper-Conference.pdf)
+- Accelerating Large-Scale Inference with Anisotropic Vector Quantization, ScaNN, (ICML2020), Guo et al. [[link]](https://dl.acm.org/doi/abs/10.5555/3524938.3525302)
 
 
 
