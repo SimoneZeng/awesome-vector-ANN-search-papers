@@ -49,6 +49,7 @@ This category collects papers that propose graph-based methods, without combinin
 
 ### Quantization-based
 
+- Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search (2024), Gao et al. [[link]](https://arxiv.org/pdf/2409.09913)
 - RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search (SIGMOD2024), Gao et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3654970)
 - Similarity Search in the Blink of an Eye with Compressed Indices (VLDB2023), Aguerrebere et al. [[link]](https://arxiv.org/pdf/2304.04759)
 - Model-enhanced Vector Index (NeurIPS2023), Zhang et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf)
@@ -78,6 +79,7 @@ This category collects papers that propose graph-based methods, without combinin
 
 - DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node (NeurIPS2019), Subramanya et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)
 - DiskANN++: Efficient Page-based Search over Isomorphic Mapped Graph Index using Query-sensitivity Entry Vertex (2023), Ni et al. [[link]](https://arxiv.org/pdf/2310.00402)
+- Filtered − DiskANN: Graph Algorithms for Approximate Nearest Neighbor Search with Filters (Web2023), Gollapudi et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583552)
 - FreshDiskANN: A Fast and Accurate Graph-Based ANN Index for Streaming Similarity Search (2021), Singh et al. [[link]](https://dcreager.net/pdf/Singh2021.pdf)
 - SPANN: Highly-efﬁcient Billion-scale Approximate Nearest Neighbor Search (NeurIPS2021), Chen et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf)
 - SPFresh: Incremental In-Place Update for Billion-Scale Vector Search (SOSP2023), Xu et al. [[link]](https://dl.acm.org/doi/abs/10.1145/3600006.3613166)
@@ -95,15 +97,17 @@ This category collects papers that propose graph-based methods, without combinin
 
 ### Hybrid query
 
-- AnalyticDB-V: a hybrid analytical engine towards query fusion for structured and unstructured data (VLDB2020), Wei et al. [[link]](https://vldb.org/pvldb/vol13/p3152-wei.pdf)
 - SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search (SIGMOD2024), Zuo et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3639324)
-- Navigable Proximity Graph-Driven Native Hybrid Queries with Structured and Unstructured Constraints (2022), Wang et al. [[link]](https://arxiv.org/pdf/2203.13601)
+- Filtered − DiskANN: Graph Algorithms for Approximate Nearest Neighbor Search with Filters (Web2023), Gollapudi et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583552)
 - High-Throughput Vector Similarity Search in Knowledge Graphs (SIGMOD2023), Mohoney et al. [[link]](https://arxiv.org/pdf/2304.01926)
+- Navigable Proximity Graph-Driven Native Hybrid Queries with Structured and Unstructured Constraints (2022), Wang et al. [[link]](https://arxiv.org/pdf/2203.13601)
+- AnalyticDB-V: a hybrid analytical engine towards query fusion for structured and unstructured data (VLDB2020), Wei et al. [[link]](https://vldb.org/pvldb/vol13/p3152-wei.pdf)
 
 
 ### Computation acceleration
 - High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations (SIGMOD2023), Gao et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3589282)
 - Juno: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping (ASPLOS2024), Liu et al. [[link]](https://horizon-lab.org/pubs/asplos24-juno.pdf)
+- FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search (Web2023), Chen et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583318)
 
 ### Vector database system
 
