@@ -105,6 +105,7 @@ This category collects papers that propose graph-based methods, without combinin
 
 
 ### Computation acceleration
+- Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal (2024), Jiang et al. [[link]](https://arxiv.org/abs/2406.12385)
 - High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations (SIGMOD2023), Gao et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3589282)
 - Juno: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping (ASPLOS2024), Liu et al. [[link]](https://horizon-lab.org/pubs/asplos24-juno.pdf)
 - FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search (Web2023), Chen et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583318)
