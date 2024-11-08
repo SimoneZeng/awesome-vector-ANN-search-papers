@@ -7,7 +7,9 @@ Let's dive into ANN search and vector database!
 
 
 ## Introduction of ANN search
-The introduction of ANN search is coming soon.
+In general, there are many great articles in the website of [Pinecone](https://www.pinecone.io/learn/) and [Zilliz](https://zilliz.com/learn), including core components, deep dives, user cases and ML foundations in the field of vector databases.
+
+If you are a Chinese developer and want to learn about the getting-started concepts and techniques in ANN search with vector datasets, here is a [blog](https://zhuanlan.zhihu.com/p/686251186) that contains most of the concepts for a beginner.
 
 ## Papers Organized with Categories
 
