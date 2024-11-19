@@ -13,7 +13,7 @@ If you are a Chinese developer and want to learn about the getting-started conce
 
 ## Papers Organized with Categories
 
-### Graph-based
+### 1. Graph-based
 
 This category collects papers that propose graph-based methods, without combining other three types of categories (e.g., tree-based, hash-based, quantization-based).
 
@@ -32,7 +32,7 @@ This category collects papers that propose graph-based methods, without combinin
 - RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search (VLDB2024), Chen et al. [[link]](https://www.vldb.org/pvldb/vol17/p2735-chen.pdf)
 
 
-### Combining graph and other categories
+### 2. Combining graph and other categories
 - ELPIS: Graph-Based Similarity Search for Scalable Data Science (VLDB2023), Azizi et al. [[link]](https://www.vldb.org/pvldb/vol16/p1548-azizi.pdf)
 - HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search (VLDB2021), Lu et al. [[link]](http://www.vldb.org/pvldb/vol15/p246-lu.pdf)
 - Routing-Guided Learned Product Quantization for Graph-Based Approximate Nearest Neighbor Search (ICDE2024), Yue et al. [[link]](https://arxiv.org/pdf/2311.18724)
@@ -40,16 +40,22 @@ This category collects papers that propose graph-based methods, without combinin
 
 
 
-### Partitions-based
+### 3. Partitions-based and Distributed
 - Learning Space Partitions for Nearest Neighbor Search (ICLR2020),  et al. [[link]](https://arxiv.org/pdf/1901.08544)
 - BLISS: A Billion scale Index using Iterative Re-partitioning (SIGKDD2022), Gupta et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3534678.3539414)
 - Learning Balanced Tree Indexes for Large-Scale Vector Retrieval (SIGKDD2023), Li et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3580305.3599406)
 - Learned Probing Cardinality Estimation for High-Dimensional Approximate NN Search (ICDE2023), Zheng et al. [[link]](https://ieeexplore.ieee.org/abstract/document/10184837)
 - Learning-based query optimization for multi-probe approximate nearest neighbor search (VLDBJ2023), Zhang et al. [[link]](https://link.springer.com/article/10.1007/s00778-022-00762-0)
+- SOAR: Improved Indexing for Approximate Nearest Neighbor Search (NIPS2023), Sun et al. [[link]](https://openreview.net/pdf?id=QvIvWMaQdX) 
+- Optimizing the Number of Clusters for Billion-Scale Quantization-Based Nearest Neighbor Search (TKDE2024), Fu et al. [[link]](https://ieeexplore.ieee.org/abstract/document/10547412)
+- DIMS: Distributed Index for Similarity Search in Metric Spaces (TKDE2024), Zhu et al. [[link]](https://ieeexplore.ieee.org/abstract/document/10737368)
+- Efficient Distributed Approximate k-Nearest Neighbor Graph Construction by Multiway Random Division Forest (KDD2023), Kim et al. [[link]](https://dl.acm.org/doi/abs/10.1145/3580305.3599327) 
+- Odyssey: A Journey in the Land of Distributed Data Series Similarity Search (VLDB2023),  Chatzakis  et al. [[link]](https://dl.acm.org/doi/10.14778/3579075.3579087) 
+- Pyramid: A General Framework for Distributed Similarity Search (2019), Deng et al. [[link]](https://arxiv.org/pdf/1906.10602)
 
 
 
-### Quantization-based
+### 4. Quantization-based
 
 - Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search (2024), Gao et al. [[link]](https://arxiv.org/pdf/2409.09913)
 - RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search (SIGMOD2024), Gao et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3654970)
@@ -60,7 +66,7 @@ This category collects papers that propose graph-based methods, without combinin
 
 
 
-### Hash-based
+### 5. Hash-based
 - DB-LSH: Locality-Sensitive Hashing with Query-based Dynamic Bucketing (ICDE2023), Tian et al. [[link]](https://ieeexplore.ieee.org/abstract/document/9835575)
 - DB-LSH 2.0: Locality-Sensitive Hashing With Query-Based Dynamic Bucketing (TKDE2023), Tian et al. [[link]](https://ieeexplore.ieee.org/abstract/document/10184454)
 - MP-RW-LSH: an efficient multi-probe LSH solution to ANNS-<i>L</i><sub>1</sub> (VLDB2021), Wang et al. [[link]](https://vldb.org/pvldb/vol14/p3267-wang.pdf)
@@ -70,14 +76,14 @@ This category collects papers that propose graph-based methods, without combinin
 - DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search (VLDB2024), Wei et al. [[link]](https://arxiv.org/pdf/2406.10938)
 
 
-### Tree-based
+### 6. Tree-based
 - DIDS: Double Indices and Double Summarizations for Fast Similarity Search (VLDB2024), Hu et al. [[link]](https://www.vldb.org/pvldb/vol17/p2198-wang.pdf)
 - Adaptive Indexing in High-Dimensional Metric Spaces (VLDB2023), Lampropoulos et al. [[link]](https://cs.au.dk/~karras/p2525-mamoulis.pdf)
 - Hercules Against Data Series Similarity Search (VLDB2022), Echihabi et al. [[link]](https://www.vldb.org/pvldb/vol15/p2005-echihabi.pdf)
 - Scalable Nearest Neighbor Algorithms for High Dimensional Data (TPAMI20), Muja et al. [[link]](https://ieeexplore.ieee.org/iel7/34/4359286/06809191.pdf)
 - <i>i</i> SAX: indexing and mining terabyte sized time series (SIGKDD2008), Shieh et al. [[link]](http://alumni.cs.ucr.edu/~shiehj/files/iSAX.pdf)
 
-### Disk available
+### 7. Disk available
 
 - DiskANN: Fast Accurate Billion-point Nearest Neighbor Search on a Single Node (NeurIPS2019), Subramanya et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2019/file/09853c7fb1d3f8ee67a61b6bf4a7f8e6-Paper.pdf)
 - DiskANN++: Efficient Page-based Search over Isomorphic Mapped Graph Index using Query-sensitivity Entry Vertex (2023), Ni et al. [[link]](https://arxiv.org/pdf/2310.00402)
@@ -88,7 +94,7 @@ This category collects papers that propose graph-based methods, without combinin
 
 
 
-### Survey and benchmark
+### 8. Survey and benchmark
 
 - A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search (VLDB2021), Wang et al. [[link]](https://www.vldb.org/pvldb/vol14/p1964-wang.pdf)
 - ParlayANN: Scalable and Deterministic Parallel GraphBased Approximate Nearest Neighbor Search Algorithms (PPoPP2024), Manohar et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3627535.3638475)
@@ -97,7 +103,7 @@ This category collects papers that propose graph-based methods, without combinin
 
 
 
-### Hybrid query
+### 9. Hybrid query
 
 - SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search (SIGMOD2024), Zuo et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3639324)
 - Filtered − DiskANN: Graph Algorithms for Approximate Nearest Neighbor Search with Filters (Web2023), Gollapudi et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583552)
@@ -106,13 +112,16 @@ This category collects papers that propose graph-based methods, without combinin
 - AnalyticDB-V: a hybrid analytical engine towards query fusion for structured and unstructured data (VLDB2020), Wei et al. [[link]](https://vldb.org/pvldb/vol13/p3152-wei.pdf)
 
 
-### Computation acceleration
+### 10. Computation acceleration
 - Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal (2024), Jiang et al. [[link]](https://arxiv.org/abs/2406.12385)
 - High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations (SIGMOD2023), Gao et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3589282)
 - Juno: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping (ASPLOS2024), Liu et al. [[link]](https://horizon-lab.org/pubs/asplos24-juno.pdf)
 - FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search (Web2023), Chen et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3543507.3583318)
+- Relative NN-Descent: A Fast Index Construction for Graph-Based Approximate Nearest Neighbor Search (MM2023), Ono et al. [[link]](https://arxiv.org/pdf/2310.20419) 
+- AdANNS: A Framework for Adaptive Semantic Search (NIPS2023), Rege et al. [[link]](https://proceedings.neurips.cc/paper_files/paper/2023/file/f062da1973ac9ac61fc6d44dd7fa309f-Paper-Conference.pdf) 
 
-### Vector database system
+
+### 11. Vector database system
 
 - Milvus: A Purpose-Built Vector Data Management System (SIGMOD2021), Wang et al. [[link]](https://dl.acm.org/doi/pdf/10.1145/3448016.3457550)
 - Manu: A Cloud Native Vector Database Management System (VLDB2022), Guo et al. [[link]](https://www.vldb.org/pvldb/vol15/p3548-yan.pdf)
@@ -124,19 +133,19 @@ This category collects papers that propose graph-based methods, without combinin
 - SingleStore-V: An Integrated Vector Database System in
 SingleStore (VLDB2024), Chen et al. [[link]](https://cs.purdue.edu/homes/csjgwang/pubs/VLDB24_SingleStoreVec.pdf)
 
-### Threoratical
+### 12. Threoratical
 
 - Graph-based Nearest Neighbor Search:  From Practice to Theory (ICML2020), Prokhorenkova et al. [[link]](http://proceedings.mlr.press/v119/prokhorenkova20a/prokhorenkova20a.pdf)
 
 
 
-### Multi-metric spaces
+### 13. Multi-metric spaces
 
 - HJG: An Effective Hierarchical Joint Graph for ANNS in Multi-Metric Spaces (ICDE2024), Zhu et al. [[link]](https://ieeexplore.ieee.org/abstract/document/10597848)
 
 
 
-### Reverse kANN
+### 14. Reverse kANN
 
 - Efficient Reverse k Approximate Nearest Neighbor Search Over High-Dimensional Vectors (ICDE2024), Song et al. [[link]](https://ieeexplore.ieee.org/abstract/document/10598048)
 
