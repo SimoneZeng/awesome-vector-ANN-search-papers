@@ -14,6 +14,17 @@ If you are a Chinese developer and want to learn about the getting-started conce
 ## Papers Organized with Categories
 In this section, we provide papers organized with categories. We also provide common abbreviation of methods after the title with Abbr.
 
+### 0. Upcoming papers
+Here are the accepeted papers in SIGMOD2025 in the field of vector search. We are looking forward to following these papers and categorize them correctly once they are public!
+
+| Title   | Conference   | Authors   | Link   |
+|-------|--------|----------|-----------|
+| DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph | Yin et al. | SIGMOD2025 | |
+| Tribase: A Vector Data Query Engine for Reliable and Lossless Pruning Compression using Triangle Inequalities | Xu et al. | SIGMOD2025 | |
+| Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | Azizi et al. | SIGMOD2025 | |
+| Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | Cai et al. | SIGMOD2025 | |
+
+
 ### 1. Graph-based
 
 This category collects papers that propose graph-based methods, without combining other three types of categories (e.g., tree-based, hash-based, quantization-based).
