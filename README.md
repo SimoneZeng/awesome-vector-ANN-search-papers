@@ -117,6 +117,7 @@ This category collects papers that propose graph-based methods, without combinin
 | Title   | Conference   | Authors   | Link   |
 |-------|--------|----------|-----------|
 | SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search | SIGMOD2024           | Zuo et al.                       | [link](https://dl.acm.org/doi/pdf/10.1145/3639324)                                                      |
+|ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data | SIGMOD2024 | Patel et al. |  [link](https://dl.acm.org/doi/10.1145/3654923) |
 | Filtered − DiskANN: Graph Algorithms for Approximate Nearest Neighbor Search with Filters | Web2023              | Gollapudi et al.                 | [link](https://dl.acm.org/doi/pdf/10.1145/3543507.3583552)                                              |
 | High-Throughput Vector Similarity Search in Knowledge Graphs           | SIGMOD2023           | Mohoney et al.                   | [link](https://arxiv.org/pdf/2304.01926)                                                                |
 | Navigable Proximity Graph-Driven Native Hybrid Queries with Structured and Unstructured Constraints | 2022                 | Wang et al.                      | [link](https://arxiv.org/pdf/2203.13601)                                                                |
@@ -141,7 +142,7 @@ This category collects papers that propose graph-based methods, without combinin
 |-------|--------|----------|-----------|
 | Milvus: A Purpose-Built Vector Data Management System                | SIGMOD2021           | Wang et al.                      | [link](https://dl.acm.org/doi/pdf/10.1145/3448016.3457550)                                                |
 | Manu: A Cloud Native Vector Database Management System               | VLDB2022             | Guo et al.                       | [link](https://www.vldb.org/pvldb/vol15/p3548-yan.pdf)                                                   |
-| Vexless: A Serverless Vector Data Management System Using Cloud Functions | VLDB2024             | Su et al.                        | [link](https://dl.acm.org/doi/pdf/10.1145/3654990)                                                      |
+| Vexless: A Serverless Vector Data Management System Using Cloud Functions | SIGMOD2024             | Su et al.                        | [link](https://dl.acm.org/doi/pdf/10.1145/3654990)                                                      |
 | Starling: An I/O-Efficient Disk-Resident Graph Index Framework for High-Dimensional Vector Similarity Search on Data Segment | SIGMOD2024           | Wang et al.                      | [link](https://arxiv.org/pdf/2401.02116)                                                                |
 | Efficient Approximate Nearest Neighbor Search in Multi-dimensional Databases | SIGMOD2023           | Peng et al.                      | [link](https://www.comp.hkbu.edu.hk/~edisonchan/publication/tau-MNG.pdf)                                |
 | VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity | OSDI2023             | Zhang et al.                     | [link](https://www.usenix.org/system/files/osdi23-zhang-qianxi_1.pdf)                                   |
