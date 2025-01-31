@@ -15,7 +15,7 @@ If you are a Chinese developer and want to learn about the getting-started conce
 In this section, we provide papers refined with categories. We also provide common abbreviation of methods after the title with Abbr.
 
 ### 0. Upcoming papers
-Here are the accepted papers in SIGMOD2025 in the field of vector search. We are looking forward to following these papers and categorizing them correctly once they are public!
+Here are the accepted papers in SIGMOD2025, VLDB2025 and WWW2025 in the field of vector search. We are looking forward to following these papers and categorizing them correctly once they are public!
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
@@ -25,6 +25,8 @@ Here are the accepted papers in SIGMOD2025 in the field of vector search. We are
 | Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | Azizi et al. | SIGMOD2025 | |
 | Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | Cai et al. | SIGMOD2025 | |
 | Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search | Wei et al. | SIGMOD2025 | |
+| Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | Deng et al. | VLDB2025 | [link](https://arxiv.org/abs/2411.17229) |
+| LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | Zeng et al. | WWW2025 ||
 
 
 ### 1. Graph-based
