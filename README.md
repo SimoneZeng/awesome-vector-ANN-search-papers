@@ -19,12 +19,12 @@ Here are the accepted papers in SIGMOD2025, VLDB2025 and WWW2025 in the field of
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
-|SymphonyQG: towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search | Gou et al. | SIGMOD2025 | |
-| DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph | Yin et al. | SIGMOD2025 | |
-| Tribase: A Vector Data Query Engine for Reliable and Lossless Pruning Compression using Triangle Inequalities | Xu et al. | SIGMOD2025 | |
-| Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | Azizi et al. | SIGMOD2025 | |
-| Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | Cai et al. | SIGMOD2025 | |
-| Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search | Wei et al. | SIGMOD2025 | |
+|SymphonyQG: towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search | Gou et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3709730) |
+| DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph | Yin et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3709679) |
+| Tribase: A Vector Data Query Engine for Reliable and Lossless Pruning Compression using Triangle Inequalities | Xu et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3709743) |
+| Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | Azizi et al. | SIGMOD2025 | [link](https://dl.acm.org/doi/pdf/10.1145/3709693)|
+| Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | Cai et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3698822) |
+| Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search | Wei et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3709729) |
 | Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | Deng et al. | VLDB2025 | [link](https://arxiv.org/abs/2411.17229) |
 | LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | Zeng et al. | WWW2025 ||
 
@@ -52,6 +52,7 @@ This category collects papers that propose graph-based methods, without combinin
 ### 2. Combining graph and other categories
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+|SymphonyQG: towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search | Gou et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3709730) |
 | ELPIS: Graph-Based Similarity Search for Scalable Data Science         | VLDB2023              | Azizi et al.                      | [link](https://www.vldb.org/pvldb/vol16/p1548-azizi.pdf)                                                  |
 | Towards Efficient Index Construction and Approximate Nearest Neighbor Search in High-Dimensional Spaces  (Abbr. LSH-APG)  | VLDB2023              | Zhao et al.                       | [link](https://www.vldb.org/pvldb/vol16/p1979-zhao.pdf)                                                   |
 | HVS: hierarchical graph structure based on voronoi diagrams for solving approximate nearest neighbor search | VLDB2021              | Lu et al.                         | [link](http://www.vldb.org/pvldb/vol15/p246-lu.pdf)                                                       |
@@ -62,6 +63,8 @@ This category collects papers that propose graph-based methods, without combinin
 ### 3. Partitions-based and Distributed
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| Tribase: A Vector Data Query Engine for Reliable and Lossless Pruning Compression using Triangle Inequalities | Xu et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3709743) |
+| LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | Zeng et al. | WWW2025 ||
 | Learning Space Partitions for Nearest Neighbor Search   (Abbr. Neural LSH)              | ICLR2020              | et al.                            | [link](https://arxiv.org/pdf/1901.08544)                                                                  |
 | BLISS: A Billion scale Index using Iterative Re-partitioning          | SIGKDD2022            | Gupta et al.                      | [link](https://dl.acm.org/doi/pdf/10.1145/3534678.3539414)                                                |
 | Learning Balanced Tree Indexes for Large-Scale Vector Retrieval      | SIGKDD2023            | Li et al.                         | [link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599406)                                                |
@@ -122,6 +125,7 @@ This category collects papers that propose graph-based methods, without combinin
 ### 8. Survey and benchmark
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | Azizi et al. | SIGMOD2025 | [link](https://dl.acm.org/doi/pdf/10.1145/3709693)|
 | A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search | VLDB2021             | Wang et al.                      | [link](https://www.vldb.org/pvldb/vol14/p1964-wang.pdf)                                                   |
 | ParlayANN: Scalable and Deterministic Parallel GraphBased Approximate Nearest Neighbor Search Algorithms | PPoPP2024            | Manohar et al.                   | [link](https://dl.acm.org/doi/pdf/10.1145/3627535.3638475)                                               |
 | Deep Learning for Approximate Nearest Neighbour Search: A Survey and Future Directions | TKDE2022             | Li et al.                        | [link](https://ieeexplore.ieee.org/abstract/document/9942356)                                             |
@@ -131,6 +135,8 @@ This category collects papers that propose graph-based methods, without combinin
 ### 9. Hybrid query
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph | Yin et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3709679) |
+| Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | Cai et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3698822) |
 | SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search | SIGMOD2024           | Zuo et al.                       | [link](https://dl.acm.org/doi/pdf/10.1145/3639324)                                                      |
 |ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data | SIGMOD2024 | Patel et al. |  [link](https://dl.acm.org/doi/10.1145/3654923) |
 | Filtered − DiskANN: Graph Algorithms for Approximate Nearest Neighbor Search with Filters | Web2023              | Gollapudi et al.                 | [link](https://dl.acm.org/doi/pdf/10.1145/3543507.3583552)                                              |
