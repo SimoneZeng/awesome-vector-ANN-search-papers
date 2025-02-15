@@ -27,6 +27,8 @@ Here are the accepted papers in SIGMOD2025, VLDB2025 and WWW2025 in the field of
 | Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search | Wei et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3709729) |
 | Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | Deng et al. | VLDB2025 | [link](https://arxiv.org/abs/2411.17229) |
 | LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | Zeng et al. | WWW2025 ||
+| iRangeGraph: Improvising Range-dedicated Graphs for
+Range-filtering Nearest Neighbor Search | Xu et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3698814) |
 
 
 ### 1. Graph-based
@@ -137,6 +139,8 @@ This category collects papers that propose graph-based methods, without combinin
 |-------|--------|----------|-----------|
 | DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph | Yin et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3709679) |
 | Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | Cai et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3698822) |
+| iRangeGraph: Improvising Range-dedicated Graphs for
+Range-filtering Nearest Neighbor Search | Xu et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3698814) |
 | SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search | SIGMOD2024           | Zuo et al.                       | [link](https://dl.acm.org/doi/pdf/10.1145/3639324)                                                      |
 |ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data | SIGMOD2024 | Patel et al. |  [link](https://dl.acm.org/doi/10.1145/3654923) |
 | Filtered − DiskANN: Graph Algorithms for Approximate Nearest Neighbor Search with Filters | Web2023              | Gollapudi et al.                 | [link](https://dl.acm.org/doi/pdf/10.1145/3543507.3583552)                                              |
