@@ -27,8 +27,7 @@ Here are the accepted papers in SIGMOD2025, VLDB2025 and WWW2025 in the field of
 | Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search | Wei et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3709729) |
 | Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | Deng et al. | VLDB2025 | [link](https://arxiv.org/abs/2411.17229) |
 | LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | Zeng et al. | WWW2025 ||
-| iRangeGraph: Improvising Range-dedicated Graphs for
-Range-filtering Nearest Neighbor Search | Xu et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3698814) |
+| iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search | Xu et al. | SIGMOD2025 |[link](https://dl.acm.org/doi/pdf/10.1145/3698814) |
 
 
 ### 1. Graph-based
