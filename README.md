@@ -26,7 +26,7 @@ Here are the accepted papers in SIGMOD2025, VLDB2025, ICDE 2025 and WWW2025 in t
 | Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | SIGMOD2025 | Cai et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698822) |
 | Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search | SIGMOD2025 | Wei et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709729) |
 | Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | VLDB2025 | Deng et al. | [link](https://arxiv.org/abs/2411.17229) |
-| LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. | [link](https://zheng-kai.com/paper/2025_www_zeng.pdf)|
+| LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. | [link](https://arxiv.org/abs/2503.23409)|
 | iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search | SIGMOD2025 | Xu et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698814) |
 | Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | Deng et al. | |
 
@@ -67,7 +67,7 @@ This category collects papers that propose graph-based methods, without combinin
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
 | Tribase: A Vector Data Query Engine for Reliable and Lossless Pruning Compression using Triangle Inequalities | SIGMOD2025 | Xu et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709743) |
-| LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. | |
+| LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. |[link](https://arxiv.org/abs/2503.23409) |
 | Learning Space Partitions for Nearest Neighbor Search   (Abbr. Neural LSH)              | ICLR2020              | et al.                            | [link](https://arxiv.org/pdf/1901.08544)                                                                  |
 | BLISS: A Billion scale Index using Iterative Re-partitioning          | SIGKDD2022            | Gupta et al.                      | [link](https://dl.acm.org/doi/pdf/10.1145/3534678.3539414)                                                |
 | Learning Balanced Tree Indexes for Large-Scale Vector Retrieval      | SIGKDD2023            | Li et al.                         | [link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599406)                                                |
@@ -265,7 +265,7 @@ In this section, we provide papers refined with research groups.
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
 | Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | VLDB2025 | Deng et al. | [link](https://arxiv.org/abs/2411.17229) |
-| LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. | [link](https://zheng-kai.com/paper/2025_www_zeng.pdf)|
+| LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. | [link](https://arxiv.org/abs/2503.23409)|
 | Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | Deng et al. | |
 
 - Kejing Lu, Nagoya University
