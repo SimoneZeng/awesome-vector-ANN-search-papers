@@ -19,6 +19,11 @@ Here are the accepted papers in SIGMOD2025, VLDB2025, ICDE 2025 and WWW2025 in t
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
+| Fast Approximate Similarity Join in Vector Databases | SIGMOD2025 | Xie et al. |  |
+| RWalks: Random Walks as Attribute Diffusers for Filtered Vector Search | SIGMOD2025 | AOMAR et al. |  |
+| PDX: A Data Layout for Vector Similarity Search | SIGMOD2025 | Kuffo et al. | [link](https://arxiv.org/abs/2503.04422) |
+| Accelerating Graph Indexing for ANNS on Modern CPUs | SIGMOD2025 | Wang et al. | [link](https://arxiv.org/abs/2502.18113) |
+| Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search | SIGMOD2025 | Gao et al. | [link](https://arxiv.org/abs/2409.09913) |
 | SymphonyQG: towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search | SIGMOD2025 | Gou et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709730) |
 | DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph | SIGMOD2025 | Yin et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709679) |
 | Tribase: A Vector Data Query Engine for Reliable and Lossless Pruning Compression using Triangle Inequalities | SIGMOD2025 | Xu et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709743) |
@@ -83,6 +88,7 @@ This category collects papers that propose graph-based methods, without combinin
 ### 4. Quantization-based
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search | SIGMOD2025 | Gao et al. | [link](https://arxiv.org/abs/2409.09913) |
 | RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search | SIGMOD2024            | Gao et al.                        | [link](https://dl.acm.org/doi/pdf/10.1145/3654970)                                                       |
 | Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search| 2024                  | Gao et al.                        | [link](https://arxiv.org/pdf/2409.09913)                                                                  |
 | Similarity Search in the Blink of an Eye with Compressed Indices      | VLDB2023              | Aguerrebere et al.                | [link](https://arxiv.org/pdf/2304.04759)                                                                  |
@@ -153,6 +159,7 @@ This category collects papers that propose graph-based methods, without combinin
 ### 10. Computation acceleration
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| Accelerating Graph Indexing for ANNS on Modern CPUs | SIGMOD2025 | Wang et al. | [link](https://arxiv.org/abs/2502.18113) |
 | High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations (Abbr. ADSampline) | SIGMOD2023           | Gao et al.                       | [link](https://dl.acm.org/doi/pdf/10.1145/3589282)                                                      |
 | Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal | 2024                 | Jiang et al.                      | [link](https://arxiv.org/abs/2406.12385)                                                                |
 | Juno: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping | ASPLOS2024            | Liu et al.                       | [link](https://horizon-lab.org/pubs/asplos24-juno.pdf)                                                  |
@@ -233,10 +240,11 @@ In this section, we provide papers refined with research groups.
 | DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search | VLDB2024 | Wei et al. | [link](https://arxiv.org/pdf/2406.10938) |
 
 
-- Jianyang Gao, Cheng Long, Nanyang Technological University
+- Jianyang Gao, Cheng Long, Nanyang Technological University, [[Vector Database Research Group @ NTU]](https://vectordb-ntu.github.io/)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
+| Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search | SIGMOD2025 | Gao et al. | [link](https://arxiv.org/abs/2409.09913) |
 | SymphonyQG: towards Symphonious Integration of Quantization and Graph for Approximate Nearest Neighbor Search | SIGMOD2025 | Gou et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709730) |
 | DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph | SIGMOD2025 | Yin et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709679) |
 | iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search | SIGMOD2025 | Xu et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698814) |
