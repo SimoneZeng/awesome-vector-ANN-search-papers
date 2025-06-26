@@ -33,7 +33,7 @@ Here are the accepted papers in SIGMOD2025, VLDB2025, ICDE 2025 and WWW2025 in t
 | Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | VLDB2025 | Deng et al. | [link](https://arxiv.org/abs/2411.17229) |
 | LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. | [link](https://arxiv.org/abs/2503.23409)|
 | iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search | SIGMOD2025 | Xu et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698814) |
-| Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | Deng et al. | |
+| Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | Deng et al. | [link](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c380/26FZASdBxBu)|
 
 
 
@@ -221,7 +221,7 @@ In this section, we provide papers refined with research groups.
 | Starling: An I/O-Efficient Disk-Resident Graph Index Framework for High-Dimensional Vector Similarity Search on Data Segment | SIGMOD2024 | Wang et al. | [link](https://arxiv.org/pdf/2401.02116) |
 
 
-- Qi Chen, Microsoft Research
+- Qi Chen, Microsoft Research [website](https://www.microsoft.com/en-us/research/people/cheqi/)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
@@ -230,7 +230,7 @@ In this section, we provide papers refined with research groups.
 | VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity | OSDI2023 | Zhang et al. | [link](https://www.usenix.org/system/files/osdi23-zhang-qianxi_1.pdf) |
 
 
-- Themis Palpanas, LIPADE, Université Paris Cité
+- Themis Palpanas, LIPADE, Université Paris Cité [website](https://spl.ics.forth.gr/people/research-personnel/themis-palpanas.html)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
@@ -240,7 +240,7 @@ In this section, we provide papers refined with research groups.
 | DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search | VLDB2024 | Wei et al. | [link](https://arxiv.org/pdf/2406.10938) |
 
 
-- Jianyang Gao, Cheng Long, Nanyang Technological University, [[Vector Database Research Group @ NTU]](https://vectordb-ntu.github.io/)
+- Jianyang Gao, Cheng Long, Nanyang Technological University [website](https://vectordb-ntu.github.io/)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
@@ -260,7 +260,7 @@ In this section, we provide papers refined with research groups.
 | EFANNA: An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph | 2016 | Fu et al. | [link](https://arxiv.org/pdf/1609.07228) |
 | Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph | VLDB2019 | Fu et al. | [link](https://www.vldb.org/pvldb/vol12/p461-fu.pdf) |
 
-- Dong Deng, Rutgers University
+- Dong Deng, Rutgers University [website](https://www.cs.rutgers.edu/people/professors/details/dong-deng)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
@@ -268,15 +268,15 @@ In this section, we provide papers refined with research groups.
 | ARKGraph: All-Range Approximate K-Nearest-Neighbor Graph | VLDB2023 | Zuo et al. | [link](https://www.vldb.org/pvldb/vol16/p2645-deng.pdf) |
 
 
-- Liwei Deng, Ximu Zeng, Kai Zheng, University of Electronic Science and Technology of China
+- Liwei Deng, Ximu Zeng, Kai Zheng, University of Electronic Science and Technology of China [website](http://zheng-kai.com/)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
 | Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | VLDB2025 | Deng et al. | [link](https://arxiv.org/abs/2411.17229) |
 | LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. | [link](https://arxiv.org/abs/2503.23409)|
-| Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | Deng et al. | |
+| Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | Deng et al. | [link]((https://www.computer.org/csdl/proceedings-article/icde/2025/360300c380/26FZASdBxBu))|
 
-- Kejing Lu, Nagoya University
+- Kejing Lu, Nagoya University [website](https://www.db.is.i.nagoya-u.ac.jp/en/group/members/)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
@@ -284,7 +284,7 @@ In this section, we provide papers refined with research groups.
 | HVS: Hierarchical Graph Structure Based on Voronoi Diagrams for Solving Approximate Nearest Neighbor Search | VLDB2021 | Lu et al. | [link](http://www.vldb.org/pvldb/vol15/p246-lu.pdf) |
 
 
-- Defu Lian, University of Science and Technology of China
+- Defu Lian, University of Science and Technology of China  [website](https://faculty.ustc.edu.cn/liandefu)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
@@ -293,21 +293,21 @@ In this section, we provide papers refined with research groups.
 | Learning Balanced Tree Indexes for Large-Scale Vector Retrieval | SIGKDD2023 | Li et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3580305.3599406) |
 
 
-- Guoliang Li, Tsinghua University
+- Guoliang Li, Tsinghua University [website](https://dbgroup.cs.tsinghua.edu.cn/ligl/)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
 | Survey of Vector Database Management Systems | VLDB2024 | Pan et al. | [link](https://arxiv.org/pdf/2310.14021) |
 
 
-- Bin Cui, Peking University
+- Bin Cui, Peking University [website](https://cuibinpku.github.io/)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
 | Model-enhanced Vector Index | NeurIPS2023 | Zhang et al. | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf) |
 
 
-- Xi Zhao, Xiaofang Zhou, Hong Kong University of Science and Technology
+- Xi Zhao, Xiaofang Zhou, Hong Kong University of Science and Technology [website](https://cse.hkust.edu.hk/admin/people/faculty/profile/zxf)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
@@ -316,7 +316,7 @@ In this section, we provide papers refined with research groups.
 | DB-LSH 2.0: Locality-Sensitive Hashing With Query-Based Dynamic Bucketing | TKDE2023 | Tian et al. | [link](https://ieeexplore.ieee.org/abstract/document/10184454) |
 
     
-- Xiaoliang Xu, Yuxiang Wang, Hangzhou Dianzi University
+- Xiaoliang Xu, Yuxiang Wang, Hangzhou Dianzi University [website](https://wyxlss.github.io/)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
@@ -327,54 +327,30 @@ In this section, we provide papers refined with research groups.
 
     
 
-
-- Wei Wang, Fudan University
-
-| Title   | Venue   | Authors   | Link   |
-|---------|---------|-----------|--------|
-| Steiner-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes | VLDB2025 | Wang et al. | [link](https://arxiv.org/pdf/2408.13899) |
-
-
-- Wei Wang, Hong Kong University of Science and Technology (Guangzhou)
-
-| Title   | Venue   | Authors   | Link   |
-|---------|---------|-----------|--------|
-| Deep Learning for Approximate Nearest Neighbour Search: A Survey and Future Directions | TKDE2022 | Li et al. | [link](https://ieeexplore.ieee.org/abstract/document/9942356) |
-
-
-- Pengcheng Zhang, Bin Yao, Shanghai Jiao Tong University
+- Pengcheng Zhang, Bin Yao, Shanghai Jiao Tong University [website](https://www.cs.sjtu.edu.cn/~yaobin/)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
 | Learning-based query optimization for multi-probe approximate nearest neighbor search | VLDBJ2023 | Zhang et al. | [link](https://link.springer.com/article/10.1007/s00778-022-00762-0) |
+| Efficient Reverse k Approximate Nearest Neighbor Search Over High-Dimensional Vectors | ICDE2024 | Song et al. | [link](https://ieeexplore.ieee.org/abstract/document/10598048) |
 
-
-- Bolong Zheng, Huazhong University of Science and Technology
-
-| Title   | Venue   | Authors   | Link   |
-|---------|---------|-----------|--------|
-| Learned Probing Cardinality Estimation for High-Dimensional Approximate NN Search | ICDE2023 | Zheng et al. | [link](https://ieeexplore.ieee.org/abstract/document/10184837) |
-| PM-LSH: a fast and accurate in-memory framework for high-dimensional approximate NN and closest pair search | VLDB2022 | Zheng et al. | [link](https://arxiv.org/pdf/2107.05537) |
-
-
-- Jianguo Wang, Purdue University
+- Jianguo Wang, Purdue University [website](https://www.cs.purdue.edu/homes/csjgwang/)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
 | Vexless: A Serverless Vector Data Management System Using Cloud Functions | VLDB2024 | Su et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3654990) |
 
-- Lu Chen, Zhejiang University
+- Lu Chen, Zhejiang University [website](https://person.zju.edu.cn/en/luchen)
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
 | HJG: An Effective Hierarchical Joint Graph for ANNS in Multi-Metric Spaces | ICDE2024 | Zhu et al. | [link](https://ieeexplore.ieee.org/abstract/document/10597848) |
 
-- Bin Yao, Shanghai Jiao Tong University
 
-| Title   | Venue   | Authors   | Link   |
-|---------|---------|-----------|--------|
-| Efficient Reverse k Approximate Nearest Neighbor Search Over High-Dimensional Vectors | ICDE2024 | Song et al. | [link](https://ieeexplore.ieee.org/abstract/document/10598048) |
 
+
+Contact me.
+ximuzeng@std.uestc.edu.cn
 
 
 
