@@ -19,8 +19,8 @@ Here are the accepted papers in SIGMOD2025, VLDB2025, ICDE 2025 and WWW2025 in t
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
-| Fast Approximate Similarity Join in Vector Databases | SIGMOD2025 | Xie et al. |  |
-| RWalks: Random Walks as Attribute Diffusers for Filtered Vector Search | SIGMOD2025 | AOMAR et al. |  |
+| Fast Approximate Similarity Join in Vector Databases | SIGMOD2025 | Xie et al. | [link](https://dl.acm.org/doi/10.1145/3725403) |
+| RWalks: Random Walks as Attribute Diffusers for Filtered Vector Search | SIGMOD2025 | Aomar et al. | [link](https://dl.acm.org/doi/10.1145/3725349) |
 | PDX: A Data Layout for Vector Similarity Search | SIGMOD2025 | Kuffo et al. | [link](https://arxiv.org/abs/2503.04422) |
 | Accelerating Graph Indexing for ANNS on Modern CPUs | SIGMOD2025 | Wang et al. | [link](https://arxiv.org/abs/2502.18113) |
 | Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search | SIGMOD2025 | Gao et al. | [link](https://arxiv.org/abs/2409.09913) |
@@ -185,20 +185,20 @@ This category collects papers that propose graph-based methods, without combinin
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
-| Graph-based Nearest Neighbor Search:  From Practice to Theory | ICML2020 | Prokhorenkova et al. |[[link]](http://proceedings.mlr.press/v119/prokhorenkova20a/prokhorenkova20a.pdf) |
+| Graph-based Nearest Neighbor Search:  From Practice to Theory | ICML2020 | Prokhorenkova et al. |[link](http://proceedings.mlr.press/v119/prokhorenkova20a/prokhorenkova20a.pdf) |
 
 ### 13. Multi-metric spaces
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
-|HJG: An Effective Hierarchical Joint Graph for ANNS in Multi-Metric Spaces | ICDE2024 | Zhu et al. | [[link]](https://ieeexplore.ieee.org/abstract/document/10597848) |
+|HJG: An Effective Hierarchical Joint Graph for ANNS in Multi-Metric Spaces | ICDE2024 | Zhu et al. | [link](https://ieeexplore.ieee.org/abstract/document/10597848) |
 
 
 ### 14. Reverse kANN
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
-| Efficient Reverse k Approximate Nearest Neighbor Search Over High-Dimensional Vectors | ICDE2024 | Song et al. | [[link]](https://ieeexplore.ieee.org/abstract/document/10598048) |
+| Efficient Reverse k Approximate Nearest Neighbor Search Over High-Dimensional Vectors | ICDE2024 | Song et al. | [link](https://ieeexplore.ieee.org/abstract/document/10598048) |
 
 
 
@@ -274,7 +274,7 @@ In this section, we provide papers refined with research groups.
 |---------|---------|-----------|--------|
 | Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | VLDB2025 | Deng et al. | [link](https://arxiv.org/abs/2411.17229) |
 | LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. | [link](https://arxiv.org/abs/2503.23409)|
-| Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | Deng et al. | [link]((https://www.computer.org/csdl/proceedings-article/icde/2025/360300c380/26FZASdBxBu))|
+| Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | Deng et al. | [link](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c380/26FZASdBxBu)|
 
 - Kejing Lu, Nagoya University [website](https://www.db.is.i.nagoya-u.ac.jp/en/group/members/)
 
