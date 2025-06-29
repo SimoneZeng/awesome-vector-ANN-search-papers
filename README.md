@@ -14,6 +14,24 @@ If you are a Chinese developer and want to learn about the getting-started conce
 ## Papers Refined with Categories
 In this section, we provide papers refined with categories. We also provide common abbreviation of methods after the title with Abbr.
 
+<!-- no-auto-toc -->
+- [0. Upcoming papers](#0-upcoming-papers)
+- [1. Graph-based](#1-graph-based)
+- [2. Combining graph and other categories](#2-combining-graph-and-other-categories)
+- [3. Partitions-based and Distributed](#3-partitions-based-and-distributed)
+- [4. Quantization-based](#4-quantization-based)
+- [5. Hash-based](#5-hash-based)
+- [6. Tree-based](#6-tree-based)
+- [7. Disk available](#7-disk-available)
+- [8. Survey and benchmark](#8-survey-and-benchmark)
+- [9. Hybrid query](#9-hybrid-query)
+- [10. Computation acceleration](#10-computation-acceleration)
+- [11. Vector database system](#11-vector-database-system)
+- [12. Threoratical analysis](#12-threoratical-analysis)
+- [13. Multi-metric spaces](#13-multi-metric-spaces)
+- [14. Reverse kANN](#14-reverse-kann)
+
+
 ### 0. Upcoming papers
 Here are the accepted papers in SIGMOD2025, VLDB2025, ICDE 2025 and WWW2025 in the field of vector search. We are looking forward to following these papers and categorizing them correctly once they are public!
 
@@ -181,7 +199,7 @@ This category collects papers that propose graph-based methods, without combinin
 | LANNS: a web-scale approximate nearest neighbor lookup system        | VLDB2021             | Doshi et al.                     | [link](https://arxiv.org/pdf/2010.09426)                                                                |
 | SingleStore-V: An Integrated Vector Database System in SingleStore    | VLDB2024             | Chen et al.                      | [link](https://cs.purdue.edu/homes/csjgwang/pubs/VLDB24_SingleStoreVec.pdf)                              |
 
-### 12. Threoratical
+### 12. Threoratical analysis
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
