@@ -37,6 +37,9 @@ Here are the accepted papers in SIGMOD2025, VLDB2025, ICDE 2025 and WWW2025 in t
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
+| UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search | VLDB2025 | Liang et al. | [link](https://dl.acm.org/doi/10.14778/3717755.3717770) |
+| Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search | VLDB2025 | Yang et al. | [link](https://www.vldb.org/pvldb/vol18/p1825-liu.pdf) |
+| Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | VLDB2025 | Deng et al. | [link](https://arxiv.org/abs/2411.17229) |
 | Fast Approximate Similarity Join in Vector Databases | SIGMOD2025 | Xie et al. | [link](https://dl.acm.org/doi/10.1145/3725403) |
 | RWalks: Random Walks as Attribute Diffusers for Filtered Vector Search | SIGMOD2025 | Aomar et al. | [link](https://dl.acm.org/doi/10.1145/3725349) |
 | PDX: A Data Layout for Vector Similarity Search | SIGMOD2025 | Kuffo et al. | [link](https://arxiv.org/abs/2503.04422) |
@@ -48,7 +51,6 @@ Here are the accepted papers in SIGMOD2025, VLDB2025, ICDE 2025 and WWW2025 in t
 | Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | SIGMOD2025 | Azizi et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709693) |
 | Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | SIGMOD2025 | Cai et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698822) |
 | Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search | SIGMOD2025 | Wei et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709729) |
-| Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | VLDB2025 | Deng et al. | [link](https://arxiv.org/abs/2411.17229) |
 | LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. | [link](https://arxiv.org/abs/2503.23409)|
 | iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search | SIGMOD2025 | Xu et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698814) |
 | Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search| ICDE2025 | Deng et al. | [link](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c380/26FZASdBxBu)|
@@ -162,6 +164,7 @@ This category collects papers that propose graph-based methods, without combinin
 ### 9. Hybrid query
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search | VLDB2025 | Liang et al. | [link](https://dl.acm.org/doi/10.14778/3717755.3717770) |
 | DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph | SIGMOD2025 | Yin et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709679) |
 | Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | SIGMOD2025 | Cai et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698822) |
 | iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search | SIGMOD2025 | Xu et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698814) |
