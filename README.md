@@ -33,10 +33,16 @@ In this section, we provide papers refined with categories. We also provide comm
 
 
 ### 0. Upcoming papers
-Here are the accepted papers in SIGMOD2025, VLDB2025, ICDE 2025 and WWW2025 in the field of vector search. We are looking forward to following these papers and categorizing them correctly once they are public!
+Here are the accepted papers in SIGMOD2025, VLDB2025, ICDE 2025, SIGKDD2025 and WWW2025 in the field of vector search. We are looking forward to following these papers and categorizing them correctly once they are public!
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
+| UAccelerating Approximate Nearest Neighbor Search in Hierarchical Graphs: Efficient Level Navigation with Shortcuts | VLDB2025 | Gong et al. | [link](https://dl.acm.org/doi/abs/10.14778/3748191.3748212) |
+| Select Edges Wisely: Monotonic Path Aware Graph Layout Optimization for Disk-based ANN Search | VLDB2025 | Yue et al. | [link](https://dl.acm.org/doi/abs/10.14778/3749646.3749697) |
+| MicroNN: An On-device Disk-resident Updatable Vector Database | SIGMOD2025 | Pound et al. | [link](https://dl.acm.org/doi/abs/10.1145/3722212.3724444) |
+| Stitching Inner Product and Euclidean Metrics for Topology-aware Maximum Inner Product Search | SIGIR2025 | Chen et al. | [link](https://dl.acm.org/doi/abs/10.1145/3726302.3730088) |
+| Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities | SIGKDD2025 | Ruan et al. | [link](https://dl.acm.org/doi/abs/10.1145/3711896.3736930) |
+| Boosting Deep Vector Quantization with Progressive Distribution Transformation | SIGKDD2025 | Wang et al. | [link](https://dl.acm.org/doi/abs/10.1145/3711896.3736863) |
 | UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search | VLDB2025 | Liang et al. | [link](https://dl.acm.org/doi/10.14778/3717755.3717770) |
 | Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search | VLDB2025 | Yang et al. | [link](https://www.vldb.org/pvldb/vol18/p1825-liu.pdf) |
 | Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search | VLDB2025 | Deng et al. | [link](https://arxiv.org/abs/2411.17229) |
@@ -76,6 +82,9 @@ This category collects papers that propose graph-based methods, without combinin
 | ARKGraph: All-Range Approximate K-Nearest-Neighbor Graph               | VLDB2023              | Zuo et al.                        | [link](https://www.vldb.org/pvldb/vol16/p2645-deng.pdf)                                                    |
 | EFANNA : An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph | 2016                  | Fu et al.                         | [link](https://arxiv.org/pdf/1609.07228)                                                                  |
 | FANNG: Fast Approximate Nearest Neighbour Graphs                      | CVPR2016              | Harwood et al.                    | [link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Harwood_FANNG_Fast_Approximate_CVPR_2016_paper.pdf) |
+| UAccelerating Approximate Nearest Neighbor Search in Hierarchical Graphs: Efficient Level Navigation with Shortcuts | VLDB2025 | Gong et al. | [link](https://dl.acm.org/doi/abs/10.14778/3748191.3748212) |
+| Select Edges Wisely: Monotonic Path Aware Graph Layout Optimization for Disk-based ANN Search | VLDB2025 | Yue et al. | [link](https://dl.acm.org/doi/abs/10.14778/3749646.3749697) |
+| Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities | SIGKDD2025 | Ruan et al. | [link](https://dl.acm.org/doi/abs/10.1145/3711896.3736930) |
 
 ### 2. Combining graph and other categories
 | Title   | Venue   | Authors   | Link   |
@@ -201,6 +210,7 @@ This category collects papers that propose graph-based methods, without combinin
 | VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity | OSDI2023             | Zhang et al.                     | [link](https://www.usenix.org/system/files/osdi23-zhang-qianxi_1.pdf)                                   |
 | LANNS: a web-scale approximate nearest neighbor lookup system        | VLDB2021             | Doshi et al.                     | [link](https://arxiv.org/pdf/2010.09426)                                                                |
 | SingleStore-V: An Integrated Vector Database System in SingleStore    | VLDB2024             | Chen et al.                      | [link](https://cs.purdue.edu/homes/csjgwang/pubs/VLDB24_SingleStoreVec.pdf)                              |
+| MicroNN: An On-device Disk-resident Updatable Vector Database | SIGMOD2025 | Pound et al. | [link](https://dl.acm.org/doi/abs/10.1145/3722212.3724444) |
 
 ### 12. Threoratical analysis
 
@@ -280,6 +290,7 @@ In this section, we provide papers refined with research groups.
 |---------|---------|-----------|--------|
 | EFANNA: An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph | 2016 | Fu et al. | [link](https://arxiv.org/pdf/1609.07228) |
 | Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph | VLDB2019 | Fu et al. | [link](https://www.vldb.org/pvldb/vol12/p461-fu.pdf) |
+| Stitching Inner Product and Euclidean Metrics for Topology-aware Maximum Inner Product Search | SIGIR2025 | Chen et al. | [link](https://dl.acm.org/doi/abs/10.1145/3726302.3730088) |
 
 - Dong Deng, Rutgers University [website](https://www.cs.rutgers.edu/people/professors/details/dong-deng)
 
