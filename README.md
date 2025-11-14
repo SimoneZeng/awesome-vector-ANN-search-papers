@@ -178,10 +178,12 @@ This category collects papers that propose graph-based methods, without combinin
 | Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | SIGMOD2025 | Cai et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698822) |
 | iRangeGraph: Improvising Range-dedicated Graphs for Range-filtering Nearest Neighbor Search | SIGMOD2025 | Xu et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698814) |
 | SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search | SIGMOD2024           | Zuo et al.                       | [link](https://dl.acm.org/doi/pdf/10.1145/3639324)                                                      |
+| An Efficient and Robust Framework for Approximate Nearest Neighbor Search with Attribute Constraint (NHQ)| NeurIPS2023 | Wang et al. | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/32e41d6b0a51a63a9a90697da19d235d-Paper-Conference.pdf) |
 |ACORN: Performant and Predicate-Agnostic Search Over Vector Embeddings and Structured Data | SIGMOD2024 | Patel et al. |  [link](https://dl.acm.org/doi/10.1145/3654923) |
 | Filtered − DiskANN: Graph Algorithms for Approximate Nearest Neighbor Search with Filters | Web2023              | Gollapudi et al.                 | [link](https://dl.acm.org/doi/pdf/10.1145/3543507.3583552)                                              |
-| High-Throughput Vector Similarity Search in Knowledge Graphs           | SIGMOD2023           | Mohoney et al.                   | [link](https://arxiv.org/pdf/2304.01926)                                                                |
-| Navigable Proximity Graph-Driven Native Hybrid Queries with Structured and Unstructured Constraints | 2022                 | Wang et al.                      | [link](https://arxiv.org/pdf/2203.13601)                                                                |
+| High-Throughput Vector Similarity Search in Knowledge Graphs  (HQI)  | SIGMOD2023           | Mohoney et al.                   | [link](https://arxiv.org/pdf/2304.01926) |
+| Navigable Proximity Graph-Driven Native Hybrid Queries with Structured and Unstructured Constraints | 2022                 | Wang et al.                      | [link](https://arxiv.org/pdf/2203.13601)  |
+| HQANN: Efficient and Robust Similarity Search for Hybrid Queries with Structured and Unstructured Constraints | CIKM2022 | Wu et al.| [link](https://dl-acm-org.remotexs.ntu.edu.sg/doi/abs/10.1145/3511808.3557610) |
 | AnalyticDB-V: a hybrid analytical engine towards query fusion for structured and unstructured data | VLDB2020             | Wei et al.                        | [link](https://vldb.org/pvldb/vol13/p3152-wei.pdf)                                                      |
 
 
