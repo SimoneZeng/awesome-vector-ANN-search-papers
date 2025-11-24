@@ -9,6 +9,8 @@ Let's dive into ANN search and vector database!
 ## Introduction of ANN search
 In general, there are many great articles in the website of [Pinecone](https://www.pinecone.io/learn/) and [Zilliz](https://zilliz.com/learn), including core components, deep dives, user cases and ML foundations in the field of vector databases.
 
+Recently, the 1st Workshop on Vector Databases is held along with ICML2025. Please refer to [VecDB](https://vecdb-ws.github.io/icml2025/) for detailed technical report.
+
 If you are a Chinese developer and want to learn about the getting-started concepts and techniques in ANN search with vector datasets, here is a [blog](https://zhuanlan.zhihu.com/p/686251186) that contains most of the concepts for a beginner.
 
 ## Papers Refined with Categories
@@ -37,6 +39,8 @@ Here are the accepted papers in SIGMOD2025, VLDB2025, ICDE 2025, SIGKDD2025 and 
 
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
+| Wolverine: Highly Efficient Monotonic Search Path Repair for Graph-based ANN Index Updates | VLDB2025 | Liu et al. | [link](https://dl.acm.org/doi/pdf/10.14778/3734839.3734860) |
+| AquaPipe: A Quality-Aware Pipeline for Knowledge Retrieval and Large Language Models | SIGMOD2025 |Yu et al. | [link](https://dl.acm.org/doi/abs/10.1145/3709661) |
 | UAccelerating Approximate Nearest Neighbor Search in Hierarchical Graphs: Efficient Level Navigation with Shortcuts | VLDB2025 | Gong et al. | [link](https://dl.acm.org/doi/abs/10.14778/3748191.3748212) |
 | Select Edges Wisely: Monotonic Path Aware Graph Layout Optimization for Disk-based ANN Search | VLDB2025 | Yue et al. | [link](https://dl.acm.org/doi/abs/10.14778/3749646.3749697) |
 | MicroNN: An On-device Disk-resident Updatable Vector Database | SIGMOD2025 | Pound et al. | [link](https://dl.acm.org/doi/abs/10.1145/3722212.3724444) |
@@ -85,6 +89,7 @@ This category collects papers that propose graph-based methods, without combinin
 | UAccelerating Approximate Nearest Neighbor Search in Hierarchical Graphs: Efficient Level Navigation with Shortcuts | VLDB2025 | Gong et al. | [link](https://dl.acm.org/doi/abs/10.14778/3748191.3748212) |
 | Select Edges Wisely: Monotonic Path Aware Graph Layout Optimization for Disk-based ANN Search | VLDB2025 | Yue et al. | [link](https://dl.acm.org/doi/abs/10.14778/3749646.3749697) |
 | Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities | SIGKDD2025 | Ruan et al. | [link](https://dl.acm.org/doi/abs/10.1145/3711896.3736930) |
+| Wolverine: Highly Efficient Monotonic Search Path Repair for Graph-based ANN Index Updates | VLDB2025 | Liu et al. | [link](https://dl.acm.org/doi/pdf/10.14778/3734839.3734860) |
 
 ### 2. Combining graph and other categories
 | Title   | Venue   | Authors   | Link   |
@@ -120,10 +125,12 @@ This category collects papers that propose graph-based methods, without combinin
 | Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search | SIGMOD2025 | Gao et al. | [link](https://arxiv.org/abs/2409.09913) |
 | RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search | SIGMOD2024            | Gao et al.                        | [link](https://dl.acm.org/doi/pdf/10.1145/3654970)                                                       |
 | Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search| 2024                  | Gao et al.                        | [link](https://arxiv.org/pdf/2409.09913)                                                                  |
+| Residual quantization with implicit neural codebooks| ICML2024                  | Huijben et al.                        | [link](https://dl.acm.org/doi/abs/10.5555/3692070.3692900)                                                                  |
 | Similarity Search in the Blink of an Eye with Compressed Indices      | VLDB2023              | Aguerrebere et al.                | [link](https://arxiv.org/pdf/2304.04759)                                                                  |
 | Model-enhanced Vector Index                                           | NeurIPS2023            | Zhang et al.                      | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/ac112e8ffc4e5b9ece32070440a8ca43-Paper-Conference.pdf) |
 | Knowledge Distillation for High Dimensional Search Index             | NeurIPS2024            | Lu et al.                         | [link](https://proceedings.neurips.cc/paper_files/paper/2023/file/6a15378acabd1aef017ec79a3ed744d2-Paper-Conference.pdf) |
 | Accelerating Large-Scale Inference with Anisotropic Vector Quantization, ScaNN | ICML2020              | Guo et al.                        | [link](https://dl.acm.org/doi/abs/10.5555/3524938.3525302)                                                |
+| Unsupervised Neural Quantization for Compressed-Domain Similarity Search | ICCV2019              | Morozov et al.                        | [link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Morozov_Unsupervised_Neural_Quantization_for_Compressed-Domain_Similarity_Search_ICCV_2019_paper.pdf)                                                |
 
 
 ### 5. Hash-based
@@ -212,6 +219,7 @@ This category collects papers that propose graph-based methods, without combinin
 | VBASE: Unifying Online Vector Similarity Search and Relational Queries via Relaxed Monotonicity | OSDI2023             | Zhang et al.                     | [link](https://www.usenix.org/system/files/osdi23-zhang-qianxi_1.pdf)                                   |
 | LANNS: a web-scale approximate nearest neighbor lookup system        | VLDB2021             | Doshi et al.                     | [link](https://arxiv.org/pdf/2010.09426)                                                                |
 | SingleStore-V: An Integrated Vector Database System in SingleStore    | VLDB2024             | Chen et al.                      | [link](https://cs.purdue.edu/homes/csjgwang/pubs/VLDB24_SingleStoreVec.pdf)                              |
+| CAGRA: Highly Parallel Graph Construction and  Approximate Nearest Neighbor Search for GPUs | ICDE2024 | Ootomo et al. | [link](https://arxiv.org/pdf/2308.15136) |
 | MicroNN: An On-device Disk-resident Updatable Vector Database | SIGMOD2025 | Pound et al. | [link](https://dl.acm.org/doi/abs/10.1145/3722212.3724444) |
 
 ### 12. Threoratical analysis
@@ -301,6 +309,14 @@ In this section, we provide papers refined with research groups.
 | SeRF: Segment Graph for Range-Filtering Approximate Nearest Neighbor Search | SIGMOD2024 | Zuo et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3639324) |
 | ARKGraph: All-Range Approximate K-Nearest-Neighbor Graph | VLDB2023 | Zuo et al. | [link](https://www.vldb.org/pvldb/vol16/p2645-deng.pdf) |
 
+- Bolong Zheng, Huazhong University of Science and Technology
+
+| Title   | Venue   | Authors   | Link   |
+|---------|---------|-----------|--------|
+| Wolverine: Highly Efficient Monotonic Search Path Repair for Graph-based ANN Index Updates | VLDB2025 | Liu et al. | [link](https://dl.acm.org/doi/pdf/10.14778/3734839.3734860) |
+| Select Edges Wisely: Monotonic Path Aware Graph Layout Optimization for Disk-based ANN Search | VLDB2025 | Yue et al. | [link](https://dl.acm.org/doi/abs/10.14778/3749646.3749697) |
+| Learned Probing Cardinality Estimation for High-Dimensional Approximate NN Search | ICDE2023              | Zheng et al.                      | [link](https://ieeexplore.ieee.org/abstract/document/10184837)                                            |
+| PM-LSH: a fast and accurate in-memory framework for high-dimensional approximate NN and closest pair search | VLDB2022              | Zheng et al.                      | [link](https://arxiv.org/pdf/2107.05537)                                                                  |
 
 - Liwei Deng, Ximu Zeng, Kai Zheng, University of Electronic Science and Technology of China [website](http://zheng-kai.com/)
 
