@@ -29,7 +29,7 @@ In this section, we provide papers refined with categories. We also provide comm
 - [9. Hybrid query](#9-hybrid-query)
 - [10. Computation acceleration](#10-computation-acceleration)
 - [11. Vector database system](#11-vector-database-system)
-- [12. Threoratical analysis](#12-threoratical-analysis)
+- [12. Theoretical analysis](#12-theoretical-analysis)
 - [13. Multi-metric spaces](#13-multi-metric-spaces)
 - [14. Reverse kANN](#14-reverse-kann)
 
@@ -231,7 +231,7 @@ This category collects papers that propose graph-based methods, without combinin
 | Milvus: A Purpose-Built Vector Data Management System                | SIGMOD2021           | Wang et al.                      | [link](https://dl.acm.org/doi/pdf/10.1145/3448016.3457550)                                                |
 | LANNS: a web-scale approximate nearest neighbor lookup system        | VLDB2021             | Doshi et al.                     | [link](https://arxiv.org/pdf/2010.09426)                                                                |
 
-### 12. Threoratical analysis
+### 12. Theoretical analysis
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
