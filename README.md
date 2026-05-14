@@ -61,6 +61,7 @@ This category collects papers that propose graph-based methods, without combinin
 | High Dimensional Similarity Search with Satellite System Graph: Efficiency, Scalability, and Unindexed Query Compatibility  (Abbr. NSSG) | TPAMI2021             | Fu et al.                         | [link](https://arxiv.org/pdf/1907.06146)                                                                  |
 | Reinforcement Routing on Proximity Graph for Efficient Recommendation | TOIS2023              | Feng et al.                       | [link](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/paper.pdf)                          |
 | ARKGraph: All-Range Approximate K-Nearest-Neighbor Graph               | VLDB2023              | Zuo et al.                        | [link](https://www.vldb.org/pvldb/vol16/p2645-deng.pdf)                                                    |
+| Worst-case performance of popular approximate nearest neighbor search implementations: guarantees and limitations | NIPS2023 | Indyk et al. | [link](https://dl.acm.org/doi/10.5555/3666122.3669013) |
 | Probabilistic Routing for Graph-Based Approximate Nearest Neighbor Search | 2024                  | Lu et al.                         | [link](https://arxiv.org/pdf/2402.11354)                                                                  |
 | RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search | VLDB2024              | Chen et al.                       | [link](https://www.vldb.org/pvldb/vol17/p2735-chen.pdf)                                                   |
 | Steiner-Hardness: A Query Hardness Measure for Graph-Based ANN Indexes | VLDB2025              | Wang et al.                       | [link](https://arxiv.org/pdf/2408.13899)                                                                  |
@@ -69,7 +70,9 @@ This category collects papers that propose graph-based methods, without combinin
 | Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities | SIGKDD2025 | Ruan et al. | [link](https://dl.acm.org/doi/abs/10.1145/3711896.3736930) |
 | Wolverine: Highly Efficient Monotonic Search Path Repair for Graph-based ANN Index Updates | VLDB2025 | Liu et al. | [link](https://dl.acm.org/doi/pdf/10.14778/3734839.3734860) |
 | Revisiting the Index Construction of Proximity Graph-Based Approximate Nearest Neighbor Search | VLDB2025 | Yang et al. | [link](https://dl.acm.org/doi/abs/10.14778/3725688.3725709) |
-
+| MIRAGE-ANNS: Mixed Approach Graph-based Indexing for Approximate Nearest Neighbor Search | SIGMOD2025 | Voruganti et al.| [link](https://dl.acm.org/doi/10.1145/3725325) |
+| Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search | SIGMOD2026 | Li et al. | [link](https://dl.acm.org/doi/10.1145/3786650) |
+| Proximity Graphs for Similarity Search: Fast Construction, Lower Bounds, and Euclidean Separation | PODS2026 | Lu et al. | [link](https://dl.acm.org/doi/10.1145/3767716) |
 
 ### 2. Combining graph and other categories
 | Title   | Venue   | Authors   | Link   |
@@ -213,11 +216,13 @@ This category collects papers that propose graph-based methods, without combinin
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
-| Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration | VLDBJ2026 | Li et al. |[link](https://link.springer.com/article/10.1007/s00778-026-00974-8) |
+| SONG: Approximate Nearest Neighbor Search on GPU | ICDE2020 | Zhao et al. | [link](https://ieeexplore.ieee.org/document/9101583) |
 | CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs | ICDE2024 | Ootomo et al. |[link](https://ieeexplore.ieee.org/abstract/document/10597683) |
-
-
-
+| GPU-accelerated Proximity Graph Approximate Nearest Neighbor Search and Construction | ICDE2022 | Yu et al. | [link](https://ieeexplore.ieee.org/document/9835618) |
+| GGNN: Graph-based GPU Nearest Neighbor Search | TBD2023 | Groh et al. | [link](https://ieeexplore.ieee.org/abstract/document/9739943) |
+| GRNND: A GPU-Parallel Relative NN-Descent Algorithm for Efficient Approximate Nearest Neighbor Graph Construction | Arxiv2025 | Li et al. | [link](https://arxiv.org/abs/2510.02774) |
+| Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration | VLDBJ2026 | Li et al. |[link](https://link.springer.com/article/10.1007/s00778-026-00974-8) |
+| Scalable Graph Indexing using GPUs for Approximate Nearest Neighbor Search | SIGMOD2026 | Li et al. | [link](https://arxiv.org/abs/2508.08744) |
 
 Contact me.
 ximuzeng@std.uestc.edu.cn
