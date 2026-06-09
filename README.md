@@ -41,6 +41,8 @@ Our collection is presently being updated, and we look forward to sharing the fu
 | Title   | Venue   | Authors   | Link   |
 |---------|---------|-----------|--------|
 |OdinANN: Direct Insert for Consistently Stable Performance in Billion-Scale Graph-Based Vector Search | FAST2026| Guo et.al| [link](https://www.usenix.org/system/files/conf%C3%A9rence/fast26/fast26spring-prepub_guo.pdf) |
+| Scalable Graph Indexing using GPUs for Approximate Nearest Neighbor Search | SIGMOD2026 | Li et al. | [link](https://arxiv.org/abs/2508.08744) |
+| AlayaLaser: Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search | SIGMOD2026 | Chen et al. | [link](https://arxiv.org/pdf/2602.23342) |
 
 
 
@@ -216,13 +218,14 @@ This category collects papers that propose graph-based methods, without combinin
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
-| SONG: Approximate Nearest Neighbor Search on GPU | ICDE2020 | Zhao et al. | [link](https://ieeexplore.ieee.org/document/9101583) |
-| CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs | ICDE2024 | Ootomo et al. |[link](https://ieeexplore.ieee.org/abstract/document/10597683) |
-| GPU-accelerated Proximity Graph Approximate Nearest Neighbor Search and Construction | ICDE2022 | Yu et al. | [link](https://ieeexplore.ieee.org/document/9835618) |
-| GGNN: Graph-based GPU Nearest Neighbor Search | TBD2023 | Groh et al. | [link](https://ieeexplore.ieee.org/abstract/document/9739943) |
-| GRNND: A GPU-Parallel Relative NN-Descent Algorithm for Efficient Approximate Nearest Neighbor Graph Construction | Arxiv2025 | Li et al. | [link](https://arxiv.org/abs/2510.02774) |
-| Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration | VLDBJ2026 | Li et al. |[link](https://link.springer.com/article/10.1007/s00778-026-00974-8) |
 | Scalable Graph Indexing using GPUs for Approximate Nearest Neighbor Search | SIGMOD2026 | Li et al. | [link](https://arxiv.org/abs/2508.08744) |
+| AlayaLaser: Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search | SIGMOD2026 | Chen et al. | [link](https://arxiv.org/pdf/2602.23342) |
+| Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration | VLDBJ2026 | Li et al. |[link](https://link.springer.com/article/10.1007/s00778-026-00974-8) |
+| CAGRA: Highly Parallel Graph Construction and Approximate Nearest Neighbor Search for GPUs | ICDE2024 | Ootomo et al. |[link](https://ieeexplore.ieee.org/abstract/document/10597683) |
+| GGNN: Graph-based GPU Nearest Neighbor Search | TBD2023 | Groh et al. | [link](https://ieeexplore.ieee.org/abstract/document/9739943) |
+| GPU-accelerated Proximity Graph Approximate Nearest Neighbor Search and Construction | ICDE2022 | Yu et al. | [link](https://ieeexplore.ieee.org/document/9835618) |
+| SONG: Approximate Nearest Neighbor Search on GPU | ICDE2020 | Zhao et al. | [link](https://ieeexplore.ieee.org/document/9101583) |
+
 
 Contact me.
 ximuzeng@std.uestc.edu.cn
