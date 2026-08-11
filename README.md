@@ -43,6 +43,28 @@ Our collection is presently being updated, and we look forward to sharing the fu
 |OdinANN: Direct Insert for Consistently Stable Performance in Billion-Scale Graph-Based Vector Search | FAST2026| Guo et.al| [link](https://www.usenix.org/system/files/conf%C3%A9rence/fast26/fast26spring-prepub_guo.pdf) |
 | Scalable Graph Indexing using GPUs for Approximate Nearest Neighbor Search | SIGMOD2026 | Li et al. | [link](https://arxiv.org/abs/2508.08744) |
 | AlayaLaser: Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search | SIGMOD2026 | Chen et al. | [link](https://arxiv.org/pdf/2602.23342) |
+| Enhancing Graph-based Approximate Maximum Inner Product Search via Norm-Adaptive Partitioning | SIGMOD2026 | Zhao et al. | [link](https://dl.acm.org/doi/10.1145/3802051) |
+| FGIM: a Fast Graph-based Indexes Merging Framework for Approximate Nearest Neighbor Search | SIGMOD2026 | Wu et al. | [link](https://dl.acm.org/doi/10.1145/3786651) |
+| HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search | SIGMOD2026 | Xu et al. | [link](https://dl.acm.org/doi/10.1145/3749167) |
+| TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning | SIGMOD2026 | Song et al. | [link](https://dl.acm.org/doi/10.1145/3769838) |
+| Accelerating High-Dimensional ANN Search via Skipping Redundant Distance Computations | SIGMOD2026 | Song et al. | [link](https://dl.acm.org/doi/10.1145/3769753) |
+| DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search | SIGMOD2026 | Chatzakis et al. | [link](https://dl.acm.org/doi/10.1145/3749160) |
+| TaCo: Data-adaptive and Query-aware Subspace Collision for High-dimensional Approximate Nearest Neighbor Search | SIGMOD2026 | Wei et al. | [link](https://dl.acm.org/doi/10.1145/3802118) |
+| Through the Lens of Hubness: A Revisit on Graph-Based Approximate Nearest Neighbor Search: [Experiments & Analysis] | SIGMOD2026 | Xu et al. | [link](https://dl.acm.org/doi/10.1145/3802120) |
+| ConANN: Conformal Approximate Nearest Neighbor Search | VLDB2026 | Horchidan et al. | [link](https://dl.acm.org/doi/10.14778/3772181.3772184) |
+| JHQ: Johnson-Lindenstrauss Enhanced Hierarchical Quantization for High-Dimensional Approximate Nearest Neighbor Search | VLDB2026 | Han et al. | [link](https://www.vldb.org/pvldb/vol19/p1530-han.pdf) |
+| I/O Optimizations for Graph-Based Disk-Resident Approximate Nearest Neighbor Search: A Design Space Exploration | VLDB2026 | Li et al. | [link](https://dl.acm.org/doi/10.14778/3801059.3801064) |
+| Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search | VLDB2026 | Yang et al. | [link](https://dl.acm.org/doi/10.14778/3797919.3797931) |
+| Distance Comparison Operations Are Not Silver Bullets in Vector Similarity Search: A Benchmark Study on Their Merits and Limits [Experiment, Analysis, and Benchmark] | ICDE2026 | Zheng et al. | [link](https://arxiv.org/pdf/2604.02801) |
+| SINDI: An Efficient Index for Sparse Vector Approximate Maximum Inner Product Search | ICDE2026 | Li et al. | [link](https://arxiv.org/pdf/2509.08395) |
+| Approximate Diverse k-nearest Neighbor Search in Vector Database | ICDE2026 | Zhao et al. | [link](https://arxiv.org/pdf/2510.27243) |
+| GLIDE: GPU-Accelerated ANN Graph Index Construction via Data Locality | ICDE2026 | Ruan et al. | [link](https://icde2026.github.io/accepted-papers.html) |
+| Trading Vector Data in Vector Databases | ICDE2026 | Cheng et al. | [link](https://arxiv.org/pdf/2511.07139) |
+| Text2VectorSQL: Towards a Unified Interface for Vector Search and SQL Queries | ICDE2026 | Wang et al. | [link](https://arxiv.org/pdf/2506.23071) |
+| MINT: Multi-Vector Search Index Tuning | ICDE2026 | Zhu et al. | [link](https://arxiv.org/pdf/2504.20018) |
+| SQLVec: SQL-Based Vector Similarity Search | ICDE2026 | Zhang et al. | [link](https://icde2026.github.io/accepted-papers.html) |
+| Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap | KDD2026 | Liu et al. | [link](https://dl.acm.org/doi/10.1145/3770855.3817986) |
+| Hitcher: Efficient GPU-based Vector Search via Cluster-Centric Kernel and Hitch-Ride Ordering | KDD2026 | Zhou et al. | [link](https://dl.acm.org/doi/10.1145/3770854.3780212) |
 
 
 
@@ -75,6 +97,9 @@ This category collects papers that propose graph-based methods, without combinin
 | MIRAGE-ANNS: Mixed Approach Graph-based Indexing for Approximate Nearest Neighbor Search | SIGMOD2025 | Voruganti et al.| [link](https://dl.acm.org/doi/10.1145/3725325) |
 | Fast-Convergent Proximity Graphs for Approximate Nearest Neighbor Search | SIGMOD2026 | Li et al. | [link](https://dl.acm.org/doi/10.1145/3786650) |
 | Proximity Graphs for Similarity Search: Fast Construction, Lower Bounds, and Euclidean Separation | PODS2026 | Lu et al. | [link](https://dl.acm.org/doi/10.1145/3767716) |
+| Enhancing Graph-based Approximate Maximum Inner Product Search via Norm-Adaptive Partitioning | SIGMOD2026 | Zhao et al. | [link](https://dl.acm.org/doi/10.1145/3802051) |
+| FGIM: a Fast Graph-based Indexes Merging Framework for Approximate Nearest Neighbor Search | SIGMOD2026 | Wu et al. | [link](https://dl.acm.org/doi/10.1145/3786651) |
+| VSAG: An Optimized Search Framework for Graph-Based Approximate Nearest Neighbor Search | VLDB2025 | Zhong et al. | [link](https://www.vldb.org/pvldb/vol18/p5017-cheng.pdf) |
 
 ### 2. Combining graph and other categories
 | Title   | Venue   | Authors   | Link   |
@@ -91,6 +116,7 @@ This category collects papers that propose graph-based methods, without combinin
 ### 3. Partitions-based and Distributed
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| ConANN: Conformal Approximate Nearest Neighbor Search | VLDB2026 | Horchidan et al. | [link](https://dl.acm.org/doi/10.14778/3772181.3772184) |
 | Tribase: A Vector Data Query Engine for Reliable and Lossless Pruning Compression using Triangle Inequalities | SIGMOD2025 | Xu et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709743) |
 | LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search | WWW2025 | Zeng et al. |[link](https://arxiv.org/abs/2503.23409) |
 | Optimizing the Number of Clusters for Billion-Scale Quantization-Based Nearest Neighbor Search | TKDE2024              | Fu et al.                         | [link](https://ieeexplore.ieee.org/abstract/document/10547412)                                            |
@@ -108,6 +134,8 @@ This category collects papers that propose graph-based methods, without combinin
 ### 4. Quantization-based
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| JHQ: Johnson-Lindenstrauss Enhanced Hierarchical Quantization for High-Dimensional Approximate Nearest Neighbor Search | VLDB2026 | Han et al. | [link](https://www.vldb.org/pvldb/vol19/p1530-han.pdf) |
+| Quantization Meets Projection: A Happy Marriage for Approximate k-Nearest Neighbor Search | VLDB2026 | Yang et al. | [link](https://dl.acm.org/doi/10.14778/3797919.3797931) |
 | Boosting Deep Vector Quantization with Progressive Distribution Transformation | SIGKDD2025 | Wang et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3711896.3736863) |
 | Practical and Asymptotically Optimal Quantization of High-Dimensional Vectors in Euclidean Space for Approximate Nearest Neighbor Search | SIGMOD2025 | Gao et al. | [link](https://arxiv.org/abs/2409.09913) |
 | RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search | SIGMOD2024            | Gao et al.                        | [link](https://dl.acm.org/doi/pdf/10.1145/3654970)                                                       |
@@ -152,22 +180,30 @@ This category collects papers that propose graph-based methods, without combinin
 | Filtered − DiskANN: Graph Algorithms for Approximate Nearest Neighbor Search with Filters | Web2023               | Gollapudi et al.                  | [link](https://dl.acm.org/doi/pdf/10.1145/3543507.3583552)                                                |
 | FreshDiskANN: A Fast and Accurate Graph-Based ANN Index for Streaming Similarity Search | 2021                  | Singh et al.                      | [link](https://dcreager.net/pdf/Singh2021.pdf)                                                            |
 | SPANN: Highly-efﬁcient Billion-scale Approximate Nearest Neighbor Search | NeurIPS2021           | Chen et al.                       | [link](https://proceedings.neurips.cc/paper_files/paper/2021/file/299dc35e747eb77177d9cea10a802da2-Paper.pdf) |
+| I/O Optimizations for Graph-Based Disk-Resident Approximate Nearest Neighbor Search: A Design Space Exploration | VLDB2026 | Li et al. | [link](https://dl.acm.org/doi/10.14778/3801059.3801064) |
 
 
 ### 8. Survey and benchmark
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| Filtered Vector Search: State-of-the-Art and Research Opportunities | VLDB2025 | Chronis et al. | [link](https://dl.acm.org/doi/10.14778/3750601.3750700) |
+| Through the Lens of Hubness: A Revisit on Graph-Based Approximate Nearest Neighbor Search: [Experiments & Analysis] | SIGMOD2026 | Xu et al. | [link](https://dl.acm.org/doi/10.1145/3802120) |
 |An Experimental Evaluation of Hybrid Querying on Vectors | VLDB2025| Zhu et.al| [link](https://www.vldb.org/pvldb/vol19/p183-zheng.pdf) |
+| Distance Comparison Operations Are Not Silver Bullets in Vector Similarity Search: A Benchmark Study on Their Merits and Limits [Experiment, Analysis, and Benchmark] | ICDE2026 | Zheng et al. | [link](https://arxiv.org/pdf/2604.02801) |
 | Graph-Based Vector Search: An Experimental Evaluation of the State-of-the-Art | SIGMOD2025 | Azizi et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709693) |
+| Evaluating and Generating Query Workloads for High Dimensional Vector Similarity Search | KDD2025 | Ceccarello et al. | [link](https://dl.acm.org/doi/10.1145/3711896.3737383) |
 | Survey of Vector Database Management Systems                         | VLDB2024             | Pan et al.                       | [link](https://arxiv.org/pdf/2310.14021)                                                                 |
 | ParlayANN: Scalable and Deterministic Parallel GraphBased Approximate Nearest Neighbor Search Algorithms | PPoPP2024            | Manohar et al.                   | [link](https://dl.acm.org/doi/pdf/10.1145/3627535.3638475)                                               |
 | Deep Learning for Approximate Nearest Neighbour Search: A Survey and Future Directions | TKDE2022             | Li et al.                        | [link](https://ieeexplore.ieee.org/abstract/document/9942356)                                             |
 | A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search | VLDB2021             | Wang et al.                      | [link](https://www.vldb.org/pvldb/vol14/p1964-wang.pdf)                                                   |
 
 
-### 9. Hybrid query
+### 9. Hybrid and filtered search
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| Generalized Range Filtering Approximate Nearest Neighbor Search: Containment and Overlap | KDD2026 | Liu et al. | [link](https://dl.acm.org/doi/10.1145/3770855.3817986) |
+| SIEVE: Effective Filtered Vector Search with Collection of Indexes | VLDB2025 | Li et al. | [link](https://dl.acm.org/doi/10.14778/3749646.3749725) |
+| Dynamic Range-Filtering Approximate Nearest Neighbor Search | VLDB2025 | Peng et al. | [link](https://www.vldb.org/pvldb/vol18/p3256-deng.pdf) |
 | UNIFY: Unified Index for Range Filtered Approximate Nearest Neighbors Search | VLDB2025 | Liang et al. | [link](https://dl.acm.org/doi/10.14778/3717755.3717770) |
 | DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph | SIGMOD2025 | Yin et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3709679) |
 | Navigating Labels and Vectors: A Unified Approach to Filtered Approximate Nearest Neighbor Search | SIGMOD2025 | Cai et al. | [link](https://dl.acm.org/doi/pdf/10.1145/3698822) |
@@ -188,6 +224,9 @@ This category collects papers that propose graph-based methods, without combinin
 ### 10. Computation acceleration
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search | SIGMOD2026 | Chatzakis et al. | [link](https://dl.acm.org/doi/10.1145/3749160) |
+| TRIM: Accelerating High-Dimensional Vector Similarity Search with Enhanced Triangle-Inequality-Based Pruning | SIGMOD2026 | Song et al. | [link](https://dl.acm.org/doi/10.1145/3769838) |
+| Effective and General Distance Computation for Approximate Nearest Neighbor Search | ICDE2025 | Yang et al. | [link](https://ieeexplore.ieee.org/document/11113031/) |
 | Accelerating Graph Indexing for ANNS on Modern CPUs | SIGMOD2025 | Wang et al. | [link](https://arxiv.org/abs/2502.18113) |
 | Accelerating Graph-based Vector Search via Delayed-Synchronization Traversal | 2024                 | Jiang et al.                      | [link](https://arxiv.org/abs/2406.12385)                                                                |
 | Juno: Optimizing High-Dimensional Approximate Nearest Neighbour Search with Sparsity-Aware Algorithm and Ray-Tracing Core Mapping | ASPLOS2024            | Liu et al.                       | [link](https://horizon-lab.org/pubs/asplos24-juno.pdf)                                                  |
@@ -201,6 +240,7 @@ This category collects papers that propose graph-based methods, without combinin
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search | SIGMOD2026 | Xu et al. | [link](https://dl.acm.org/doi/10.1145/3749167) |
 |OdinANN: Direct Insert for Consistently Stable Performance in Billion-Scale Graph-Based Vector Search | FAST2026| Guo et.al| [link](https://www.usenix.org/system/files/conf%C3%A9rence/fast26/fast26spring-prepub_guo.pdf) |
 | VStream: A Distributed Streaming Vector Search System | VLDB2025 | Gong et al. | [link](https://www.vldb.org/pvldb/vol18/p1593-gao.pdf) |
 | MicroNN: An On-device Disk-resident Updatable Vector Database | SIGMOD2025 | Pound et al. | [link](https://dl.acm.org/doi/abs/10.1145/3722212.3724444) |
@@ -218,6 +258,8 @@ This category collects papers that propose graph-based methods, without combinin
 
 | Title   | Venue   | Authors   | Link   |
 |-------|--------|----------|-----------|
+| GLIDE: GPU-Accelerated ANN Graph Index Construction via Data Locality | ICDE2026 | Ruan et al. | [link](https://icde2026.github.io/accepted-papers.html) |
+| Hitcher: Efficient GPU-based Vector Search via Cluster-Centric Kernel and Hitch-Ride Ordering | KDD2026 | Zhou et al. | [link](https://dl.acm.org/doi/10.1145/3770854.3780212) |
 | Scalable Graph Indexing using GPUs for Approximate Nearest Neighbor Search | SIGMOD2026 | Li et al. | [link](https://arxiv.org/abs/2508.08744) |
 | AlayaLaser: Efficient Index Layout and Search Strategy for Large-scale High-dimensional Vector Similarity Search | SIGMOD2026 | Chen et al. | [link](https://arxiv.org/pdf/2602.23342) |
 | Efficient Graph Embedding at Scale: Optimizing CPU-GPU-SSD Integration | VLDBJ2026 | Li et al. |[link](https://link.springer.com/article/10.1007/s00778-026-00974-8) |
@@ -226,6 +268,11 @@ This category collects papers that propose graph-based methods, without combinin
 | GPU-accelerated Proximity Graph Approximate Nearest Neighbor Search and Construction | ICDE2022 | Yu et al. | [link](https://ieeexplore.ieee.org/document/9835618) |
 | SONG: Approximate Nearest Neighbor Search on GPU | ICDE2020 | Zhao et al. | [link](https://ieeexplore.ieee.org/document/9101583) |
 
+### 13. Maximum Inner Product
+| Title   | Venue   | Authors   | Link   |
+|-------|--------|----------|-----------|
+| FARGO: Fast Maximum Inner Product Search via Global Multi-Probing | VLDB2023 | Zhao et al. | [link](https://www.vldb.org/pvldb/vol16/p1100-zheng.pdf) |
+| SINDI: An Efficient Index for Sparse Vector Approximate Maximum Inner Product Search | ICDE2026 | Li et al. | [link](https://arxiv.org/pdf/2509.08395) |
 
 Contact me.
 ximuzeng@std.uestc.edu.cn
